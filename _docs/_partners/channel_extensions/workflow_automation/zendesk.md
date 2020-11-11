@@ -17,6 +17,8 @@ hidden: false
 
 This section is all about what you need to integrate with the partner and start using their services. The best way to deliver this information is with a quick instructional paragraph that describes any non-technical important details of "need to know" information, like whether or not your integration will be subject to additional security checks or clearances. Then, you should use a chart to describe the technical requirements of the integration.
 
+This is a change to the document by James. 
+
 
 | Requirement | Origin | Access | Description |
 |---|---|---|---|
