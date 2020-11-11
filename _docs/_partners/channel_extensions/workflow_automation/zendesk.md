@@ -44,6 +44,8 @@ You have the option to put images in your documentation, so we recommend you do 
 
 Outline thorough usage of the integration - especially if it means inserting liquid into our message composer.
 
+Zendesk integration text
+
 ## Customization
 
 This is an __optional__ section. Here, you could outline any specific ways to customize your integration between the two partners.
